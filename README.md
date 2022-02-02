@@ -2,7 +2,7 @@
 
 This repo contains the implementation of GEBO algorithm.
 
-# Dependencies
+## Dependencies
 ```
 Anaconda Python 3.7
 torch==1.7.1
